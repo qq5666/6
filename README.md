@@ -18,3 +18,15 @@
     }
   ]
 }
+{
+id: 'com.everhomes.android.shenzhenuniversity',
+name: '丽园通',
+groups: [
+{
+key: 0,
+name: '点击-文字',
+rules: {matches: '[text="拍照"]'},
+snapshotUrls: ['https://i.gkd.li/i/1761936162934']
+    }
+  ]
+}
